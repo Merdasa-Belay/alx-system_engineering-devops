@@ -1,3 +1,2 @@
 #!/bin/sh
-touch hello
-
+cat >hello
