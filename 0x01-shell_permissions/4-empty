@@ -1,2 +1,2 @@
-#!/bin/sh
-cat >hello
+#!/bin/bash
+touch hello
