@@ -1,2 +1,2 @@
 #!/bin/sh
-touch hello
+echo > hello
