@@ -1,5 +1,5 @@
-sed: couldn't open temporary file /etc/nginx/sites-enabled/sedOWbFwD: Permission denied
-sed: couldn't open temporary file /etc/nginx/sites-enabled/sed6uRfOv: Permission denied
-sed: couldn't open temporary file /etc/nginx/sites-available/sedWvWFwJ: Permission denied
+sed: couldn't open temporary file /etc/nginx/sites-enabled/sedgxUnln: Permission denied
+sed: couldn't open temporary file /etc/nginx/sites-enabled/sedJUsoTK: Permission denied
+sed: couldn't open temporary file /etc/nginx/sites-available/sedmGcxsd: Permission denied
 Job for nginx.service failed because the control process exited with error code.
 See "systemctl status nginx.service" and "journalctl -xeu nginx.service" for details.
