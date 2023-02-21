@@ -43,7 +43,7 @@ http-request set-header X-Forwarded-Proto http
 default_backend web-backend
 
 frontend www-https
-bind \*:443 ssl crt /etc/haproxy/ssl/www.merdasa.tech.pem
+bind \*:443 ssl crt /etc/haproxy/ssl/www.merdasa.tech
 http-request set-header X-Forwarded-Proto https
 default_backend web-backend
 
